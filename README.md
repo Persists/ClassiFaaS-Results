@@ -106,7 +106,7 @@ The `helpers/` directory contains platform-specific data loaders and analysis ut
 - `benchmark.py` — Common benchmark metrics and filtering
 - `cpus.py` — CPU identification and color palettes
 - `aws.py`, `azure.py`, `gcp.py`, `alibaba.py` — platform-specific parsing
-- `cost.py` — Billing data processing
+- `cost.py` — Cost calculations, currently unused
 
 ## Setup
 
