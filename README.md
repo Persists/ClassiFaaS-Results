@@ -5,10 +5,11 @@ This repository contains benchmark results for [ClassiFaaS](https://github.com/p
 ## Overview
 
 The experiments span four serverless platforms:
-- **AWS Lambda**
-- **Azure Functions (Flex Consumption Plan)**
-- **Google Cloud Functions (gen 1)**
-- **Alibaba Function Compute 3.0**
+- **[AWS Lambda](https://aws.amazon.com/lambda/)**
+- **[Azure Functions (Flex Consumption Plan)](https://learn.microsoft.com/azure/azure-functions/flex-consumption-plan)**
+- **[Google Cloud Functions (gen 1)](https://cloud.google.com/functions/docs/concepts/version-comparison)**
+- **[Alibaba Function Compute](https://www.alibabacloud.com/help/en/function-compute/latest/what-is-function-compute)**
+
 
 We added five different benchmark workloads to evaluate performance across various computational patterns:
 
